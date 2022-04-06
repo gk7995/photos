@@ -1,7 +1,7 @@
 {
   "name": "Photos",
   "short_name": "Photos",
-  "start_url": "index.html, gp.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#1e88e5",
   "description": "Photos",
